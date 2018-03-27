@@ -1,0 +1,5 @@
+name: Multilingual Menu URLs
+type: module
+description: Provides the options to add different external URLs to a menu item translation
+core: 8.x
+package: Multilingual
