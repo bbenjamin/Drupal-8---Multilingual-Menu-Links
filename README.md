@@ -14,3 +14,6 @@ The current recommendation is to create language specific menus. This module eli
 
 Currently, the revised links get added in a preprocess hook. I'm hoping to make this happen in an earlier stage
 in a future update.
+
+Create an installable module with 
+`git clone git@github.com:bbenjamin/Drupal-8---Multilingual-Menu-Links.git multilingual_menu_urls`
