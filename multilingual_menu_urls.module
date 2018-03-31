@@ -115,6 +115,7 @@ function multilingual_menu_urls_entity_base_field_info(EntityTypeInterface $enti
 
 /**
  * Implements template_preprocess_menu().
+ * TODO: Find a way to do this earlier than a preprocessor
  */
 function multilingual_menu_urls_preprocess_menu(&$variables) {
   $default_language = \Drupal::languageManager()->getDefaultLanguage()->getId();
